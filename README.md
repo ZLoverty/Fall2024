@@ -41,6 +41,13 @@ Use `#` for headings:
 - Unordered: `- Item`
 - Ordered: `1. Item`
 
+#### Equations
+You can also write equations with $\mathrm{\LaTeX}$
+
+$$
+E = m c ^ 2
+$$
+
 #### Images
 ```markdown
 ![Description of Image](image_url)
