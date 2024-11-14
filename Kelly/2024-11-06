@@ -1,0 +1,3 @@
+Performing control group experiment using plain agar patch. 
+For each video, pick a droplet and use ImageJ to analyze its coordinates in 15 frames to find its maximum displacement due to vibration. 
+ImageJ will generate 30 graphs for each droplet being analyzed: 15 graphs for the x-axis and 15 graphs for the y-axis to observe the displacement. 
