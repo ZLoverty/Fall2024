@@ -1,0 +1,3 @@
+Still using ImageJ to analyze the droplet in each videos (Working on 20231106's condensation and evaporation video) 
+After ImageJ, use the data from ImageJ to generate Gaussian Fit graph in Jupyter notebook
+Each Video should have a total of 30 Gaussian fit graphs, 15 from the X-axis, and the other 15 from Y-axis
